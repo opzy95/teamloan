@@ -155,7 +155,7 @@
 
 <script>
 import { Icon } from "@iconify/vue";
-import router from "../router/Index";
+import router from "../router";
 import axios from "axios";
 export default {
   data() {
