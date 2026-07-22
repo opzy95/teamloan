@@ -5,7 +5,7 @@ import { createRouter, createWebHistory } from "vue-router"
 import LoginView from "../views/LoginView.vue"
 import LandingView from "../views/LandingView.vue"
 import BlogView from "../views/BlogView.vue"
-import ContactView from "../views/ContactView.vue"
+// import ContactView from "../views/ContactView.vue"
 import AboutView from "../views/AboutView.vue"
 import ServiceView from "../views/ServiceView.vue"
 import SignupView from "../views/SignupView.vue" 
@@ -31,11 +31,11 @@ const routes = [
     name: "blog",
     component: BlogView
   },
-      {
-    path: "/contact",
-    name: "contact",
-    component: ContactView
-  },
+  //     {
+  //   path: "/contact",
+  //   name: "contact",
+  //   component: ContactView
+  // },
    {
     path: "/about",
     name: "About",

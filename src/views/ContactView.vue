@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
       <ContactVue/>
     </div>
@@ -16,4 +16,4 @@ import ContactView from "../views/ContactView.vue"
 
 <style lang="scss" scoped>
 
-</style>
+</style> -->
