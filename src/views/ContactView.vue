@@ -5,10 +5,10 @@
 </template>
 
 <script>
-import ContactVue from '../components/Contact.vue';
+import ContactView from '../components/ContactView.vue';
     export default {
         components:{
-            ContactVue
+            ContactView
         }
     }
 </script>
